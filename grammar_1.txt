@@ -1,0 +1,6 @@
+S -> a B D h
+B -> c C
+C -> b C | ep
+D -> E F
+E -> g | ep
+F -> f | ep
